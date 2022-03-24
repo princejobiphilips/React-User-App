@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Navbar from './Components/Navbar';
-import Patient from './Components/Patient';
+import User from './Components/User';
 function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Patient/>
+      <User/>
     </div>
   );
 }
