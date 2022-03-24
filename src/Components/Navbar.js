@@ -6,7 +6,7 @@ function Navbar() {
     <div>
         <AppBar>
             <Toolbar>
-                <Typography>Todo</Typography>
+                <Typography>Patient Registration</Typography>
             </Toolbar>
         </AppBar>
     </div>
